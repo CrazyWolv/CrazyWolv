@@ -29,19 +29,19 @@
 ## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" width="50" /> &nbsp; L A N G U A G E S, &nbsp; &nbsp; T E C H S &nbsp; & &nbsp; T O O L S
 <br>
 <p align="center">
-  <img style="margin:3px; border-radius:3px;" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5 badge" title="HTML5 badge" />
-  <img style="margin:3px; border-radius:3px;" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="CSS3 badge" title="CSS3 badge" />
-  <img style="margin:3px; border-radius:3px;" src="https://img.shields.io/badge/-JavaScript-%23282C34?style=flat-square&logo=javascript" alt="JavaScript badge" title="JavaScript badge" />
-  <img style="margin:3px; border-radius:3px;" src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" alt="React badge" title="React badge" />
-  <img style="margin:3px; border-radius:3px;" src="https://img.shields.io/badge/-Redux-%23282C34?style=flat-square&logo=redux&logoColor=336791" alt="Redux badge" title="Redux badge" />
-  <img style="margin:3px; border-radius:3px;" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" alt="PostgreSQL badge" title="PostgreSQL badge" />
+  <img style="margin:3px;" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff" alt="HTML5 badge" title="HTML5 badge" />
+  <img style="margin:3px; " src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3" alt="CSS3 badge" title="CSS3 badge" />
+  <img style="margin:3px;" src="https://img.shields.io/badge/-JavaScript-%23282C34?style=flat&logo=javascript" alt="JavaScript badge" title="JavaScript badge" />
+  <img style="margin:3px;" src="https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react" alt="React badge" title="React badge" />
+  <img style="margin:3px;" src="https://img.shields.io/badge/-Redux-%23282C34?style=flat&logo=redux&logoColor=336791" alt="Redux badge" title="Redux badge" />
+  <img style="margin:3px;" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff" alt="PostgreSQL badge" title="PostgreSQL badge" />
 <br>
-  <img style="margin:3px; border-radius:3px;" src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" alt="Sass badge" title="Sass badge" />
-  <img style="margin:3px; border-radius:3px;" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" alt="Bootstrap badge" title="Bootstrap badge" />
-  <img style="margin:3px; border-radius:3px;" src="https://img.shields.io/badge/-Figma-181717?style=flat-square&logo=figma" alt="Figma badge" title="Figma badge" />
-  <img style="margin:3px; border-radius:3px;" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Git badge" title="Git badge" />
-  <img style="margin:3px; border-radius:3px;" src="https://img.shields.io/badge/-GitHub-%23F05032?style=flat-square&logo=github&logoColor=%23ffffff" alt="GitHub badge" title="GitHub badge" />
-  <img style="margin:3px; border-radius:3px;" src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord" alt="Discord badge" title="Discord badge" />
+  <img style="margin:3px;" src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff" alt="Sass badge" title="Sass badge" />
+  <img style="margin:3px;" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" alt="Bootstrap badge" title="Bootstrap badge" />
+  <img style="margin:3px;" src="https://img.shields.io/badge/-Figma-181717?style=flat&logo=figma" alt="Figma badge" title="Figma badge" />
+  <img style="margin:3px;" src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff" alt="Git badge" title="Git badge" />
+  <img style="margin:3px;" src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=%23ffffff" alt="GitHub badge" title="GitHub badge" />
+  <img style="margin:3px;" src="https://img.shields.io/badge/-Discord-5562EA?style=flat&logo=discord&logoColor=%23ffffff" alt="Discord badge" title="Discord badge" />
 </p>
   
 <br/>

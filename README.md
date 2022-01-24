@@ -1,27 +1,23 @@
 <!--- <p align="center"><img height="380" src="#"></p> -->
 <p align="center">• Skull by <a href="https://www.deviantart.com/akumiirako/" target="_blank">akumiirako</a> -- Bouncy wolf by <a href="https://www.deviantart.com/sqdpxl/" target="_blank">sqdpxl</a> -- Forest by <a href="https://www.deviantart.com/forheksed" target ="_blank">forheksed</a> -- Leaves by <a href="https://www.deviantart.com/lumiixi/" target="_blank">lumiixi</a> -- Tree by <a href="https://www.deviantart.com/waluouija/">waluouija</a> •</p>
-<br/>
 
 # ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CrazyWolv.CrazyWolv&right_color=green) &nbsp; A Crazy <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-gif.gif" width="50" /> Dev 
 
-**Whale Hello There, I"m Enzo.** A Frontend Web Dev obsessed with fantasy & black tea from :fr: **Strasbourg, France**. I"m from O"Clock school, LyraJS Red Promotion.
-<br/>
-<br/>
-
-## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" width="50" /> &nbsp; M O R E &nbsp; A B O U T &nbsp; M E
-<hr>
-<img width="300" height="auto" alt="forest" align="right" src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/forest.png" />
-
-<img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/hehim.svg" width="150" />
+**Whale Hello There, I'm Enzo.** A Frontend Web Dev obsessed with fantasy & black tea from :fr: **Strasbourg, France**. I'm from O'Clock school, LyraJS Red Promotion.
+<br/><br/>
+<img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/hehim.svg" width="120" />
 <br/><br/>
 
-### &nbsp; <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/leaves-left.png" width="20" /> &nbsp; Would like to learn / use ↴ &nbsp; <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/leaves-right.png" width="20" />
+## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" width="50" /> &nbsp; M O R E &nbsp; A B O U T &nbsp; M Y S E L F
+<img width="350" height="auto" alt="forest" align="right" src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/forest.png" />
+
+### &nbsp; <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/leaves-left.png" width="70" /> &nbsp; Would like to learn / use &nbsp; <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/leaves-right.png" width="70" />
 &nbsp; &nbsp; 🌱 Docker  
 &nbsp; &nbsp; 🌱 3JS  
 &nbsp; &nbsp; 🌱 Tailwind CSS  
 <br/><br/>
 
-### &nbsp; <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/leaves-left.png" width="20" /> &nbsp; Hobbies ↴ &nbsp; <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/leaves-right.png" width="20" />
+### &nbsp; <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/leaves-left.png" width="70" /> &nbsp; Hobbies &nbsp; <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/leaves-right.png" width="70" />
 &nbsp; &nbsp; :art: Drawing, drawing, drawing  
 &nbsp; &nbsp; :video_game: Gaming Addict  
 &nbsp; &nbsp; :tv: Watching Anime  
@@ -31,7 +27,6 @@
 <br/>
 
 ## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" width="50" /> &nbsp; L A N G U A G E S, &nbsp; &nbsp; T E C H S &nbsp; & &nbsp; T O O L S
-<hr>
 <br>
 <p align="center">
   <img style="margin:3px; border-radius:3px;" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5 badge" title="HTML5 badge" />
@@ -52,24 +47,19 @@
 <br/>
 <br/>
 
-## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" width="50" /> &nbsp; C O N T A C T
-<hr>
+## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" width="50" /> &nbsp; C O N T A C T &nbsp; M E
 <br />
-<img width="100" height="auto" alt="forest" src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/tree.png" />
+  <img width="100" height="auto" alt="tree" align="right" src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/tree.png" />
 
-<p align="right">
-  <!-- More badges just here --→ https://github.com/MikeCodesDotNET/ColoredBadges  -->
-  <a style="margin:3px;" href="https://www.linkedin.com/in/enzo-poulhes/" target="_blank"><img align="center" src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/linkedin.svg" alt="CrazyWolv LinkedIn" /></a>
-  <br /><br />
-  <a style="margin:3px;" href="mailto:poulhes.e@gmail.com"><img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/gmail.svg" alt="CrazyWolv Mail" /></a>
-</p>
+  <p align="left">
+    <!-- More badges like these just here --→ https://github.com/MikeCodesDotNET/ColoredBadges  -->
+    &nbsp; &nbsp; <a style="margin-left:50px;" href="https://www.linkedin.com/in/enzo-poulhes/" target="_blank"><img width="150" src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/linkedin.svg" alt="CrazyWolv LinkedIn" /></a> &nbsp; &nbsp; &nbsp; <a style="padding-left:50px;" href="mailto:poulhes.e@gmail.com"><img width="120" src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/gmail.svg" alt="CrazyWolv Mail" /></a>
+  </p>
   
-&nbsp;  
-  
-&nbsp;  
+<br/>
+<br/>
 
 ## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" width="50" /> &nbsp; S T A T S
-<hr>
 <br />
 
 &nbsp;  

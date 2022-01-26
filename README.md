@@ -30,24 +30,27 @@
 ## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" width="50" /> &nbsp; L A N G U A G E S, &nbsp; &nbsp; T E C H S &nbsp; & &nbsp; T O O L S
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff" alt="HTML5 badge" title="HTML5 badge" />
-  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3" alt="CSS3 badge" title="CSS3 badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-%23282C34?style=flat&logo=javascript" alt="JavaScript badge" title="JavaScript badge" />
-  <img src="https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react" alt="React badge" title="React badge" />
-  <img src="https://img.shields.io/badge/-Redux-%23282C34?style=flat&logo=redux&logoColor=336791" alt="Redux badge" title="Redux badge" />
-  <img src="https://img.shields.io/badge/React_Router-%23282C34?style=flat&logo=react-router&logoColor=%23CA4245" alt="ReactRouter badge" title="ReactRouter badge" />
+  <img src="https://img.shields.io/badge/-HTML5-E44D27?style=flat&logo=html5&logoColor=ffffff" alt="HTML5 badge" title="HTML5 badge" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3 badge" title="CSS3 badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-282C34?style=flat&logo=javascript" alt="JavaScript badge" title="JavaScript badge" />
+  <img src="https://img.shields.io/badge/-React-282C34?style=flat&logo=react" alt="React badge" title="React badge" />
+  <img src="https://img.shields.io/badge/-Redux-282C34?style=flat&logo=redux&logoColor=336791" alt="Redux badge" title="Redux badge" />
+  <img src="https://img.shields.io/badge/React_Router-282C34?style=flat&logo=react-router&logoColor=CA4245" alt="ReactRouter badge" title="ReactRouter badge" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff" alt="PostgreSQL badge" title="PostgreSQL badge" />
 <br>
-  <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff" alt="Sass badge" title="Sass badge" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=%23ffffff" alt="Bootstrap badge" title="Bootstrap badge" />
+  <img src="https://img.shields.io/badge/-WebPack-3A75BB?style=flat&logo=webpack&logoColor=ffffff" alt="WebPack badge" title="WebPack badge" />
+  <img src="https://img.shields.io/badge/-EsLint-4B32C3?style=flat&logo=eslint&logoColor=ffffff" alt="EsLint badge" title="EsLint badge" />
+  <img src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel&logoColor=ffffff" alt="Babel badge" title="Babel badge" />
+  <img src="https://img.shields.io/badge/-Yarn-2D8DBD?style=flat&logo=yarn&logoColor=white" alt="Yarn badge" title="Yarn badge" />
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM badge" title="NPM badge" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=ffffff" alt="Sass badge" title="Sass badge" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap badge" title="Bootstrap badge" />
   <img src="https://img.shields.io/badge/-Figma-181717?style=flat&logo=figma" alt="Figma badge" title="Figma badge" />
-  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff" alt="Git badge" title="Git badge" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=%23ffffff" alt="GitHub badge" title="GitHub badge" />
-  <img src="https://img.shields.io/badge/-Discord-5562EA?style=flat&logo=discord&logoColor=%23ffffff" alt="Discord badge" title="Discord badge" />
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white" alt="Git badge" title="Git badge" />
   <br>
-  <img src="https://img.shields.io/badge/-Yarn-%232D8DBD?style=flat&logo=yarn&logoColor=%23ffffff" alt="Yarn badge" title="Yarn badge" />
-  <img src="https://img.shields.io/badge/-NPM-%23CB3837?style=flat&logo=npm&logoColor=%23ffffff" alt="Yarn badge" title="Yarn badge" />
-  <img src="https://img.shields.io/badge/-Visual_Studio_Code-3BA4EA?style=flat&logo=visual-studio-code&logoColor=%23ffffff" alt="Discord badge" title="Discord badge" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub badge" title="GitHub badge" />
+  <img src="https://img.shields.io/badge/-Discord-5562EA?style=flat&logo=discord&logoColor=white" alt="Discord badge" title="Discord badge" />
+  <img src="https://img.shields.io/badge/-Visual_Studio_Code-3BA4EA?style=flat&logo=visual-studio-code&logoColor=white" alt="Discord badge" title="Discord badge" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows badge" title="Windows badge" />
 </p>
   

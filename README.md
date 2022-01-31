@@ -15,7 +15,7 @@
 ### &nbsp; <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/leaves-left.png" width="70" /> &nbsp; Would like to learn / use &nbsp; <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/leaves-right.png" width="70" />
 &nbsp; &nbsp; 🌱 Docker  
 &nbsp; &nbsp; 🌱 3JS  
-&nbsp; &nbsp; 🌱 Tailwind CSS 
+&nbsp; &nbsp; 🌱 Tailwind CSS   
 &nbsp; &nbsp; 🌱 Flutter
 <br/><br/>
 

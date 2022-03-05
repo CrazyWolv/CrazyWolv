@@ -5,8 +5,7 @@
 
 **Whale Hello There, I'm Enzo.** A Frontend Web Dev obsessed with fantasy & black tea from :fr: **Strasbourg, France**. I'm from O'Clock school, LyraJS Red Promotion.
 <br/><br/>
-<!-- More badges like this one just here --→ https://github.com/MikeCodesDotNET/ColoredBadges  -->
-<img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/hehim.svg" width="120" />
+<p align="center"><a href="https://github.com/CrazyWolv/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CrazyWolv&theme=chalk&no-frame=true&title=Joined2020,Stars,Commits,Followers,Repositories&margin-w=15" alt="CrazyWolv Trophy" /></a></p>
 <br/><br/>
 
 ## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" width="50" /> &nbsp; M O R E &nbsp; A B O U T &nbsp; M Y S E L F
@@ -70,18 +69,10 @@
 <br/>
 <br/>
 
-## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" width="50" /> &nbsp; S U P P O R T
+## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" width="50" /> &nbsp; S T A T S &nbsp; & &nbsp; S U P P O R T
 <br />
 
 <p><a href="https://www.buymeacoffee.com/enzopoulhes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=enzopoulhes&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a></p>
+<img src="https://github-readme-stats.vercel.app/api?username=CrazyWolv&theme=dark&show_icons=true&count_private=true&hide_border=true" width="500" />
 
-<br/>
-<br/>
 
-## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" width="50" /> &nbsp; S T A T S
-<br />
-
-&nbsp;  
-[![trophy](https://github-profile-trophy.vercel.app/?username=CrazyWolv&theme=gruvbox&no-frame=true&title=Stars,Commits,Followers,Repositories&margin-w=15)](https://github.com/CrazyWolv/github-profile-trophy)
-
-<a href=""><img src="https://github-readme-stats.vercel.app/api?username=CrazyWolv&theme=dark&show_icons=true&count_private=true&hide_border=true" width="450" /></a>

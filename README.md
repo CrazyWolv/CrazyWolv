@@ -70,6 +70,14 @@
 <br/>
 <br/>
 
+## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" width="50" /> &nbsp; S U P P O R T
+<br />
+
+<p><a href="https://www.buymeacoffee.com/enzopoulhes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=enzopoulhes&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a></p>
+
+<br/>
+<br/>
+
 ## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" width="50" /> &nbsp; S T A T S
 <br />
 

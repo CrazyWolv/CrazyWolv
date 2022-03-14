@@ -3,7 +3,11 @@
 
 # ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CrazyWolv.CrazyWolv&right_color=green) &nbsp; A Crazy <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-gif.gif" width="50" /> Dev 
 
-**Whale Hello There, I'm Enzo.** A Frontend Web Dev obsessed with fantasy & black tea from :fr: **Strasbourg, France**. I'm from O'Clock school, LyraJS Red Promotion.
+**Whale Hello There, I'm Enzo.** A Frontend Web Dev obsessed with fantasy & black tea from :fr: **Strasbourg, France**. I studied in O'Clock (a french full-remote dev school) ▸ LyraJS Red Promotion.
+<br/><br/>
+**I really like** to learn new stuff, exceptially when it comes to design, new technologies & frontend Development. When I'm not coding, I like to draw... a lot.
+<br/><br/>
+**Inn the future** I would like to be a clean-coding TDD Frontend Developer as well as a freelance illustrator and author !
 <br/><br/>
 <p align="center"><a href="https://github.com/CrazyWolv/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CrazyWolv&theme=chalk&no-frame=true&title=Joined2020,Stars,Commits,Followers,Repositories&margin-w=15" alt="CrazyWolv Trophy" /></a></p>
 <br/><br/>

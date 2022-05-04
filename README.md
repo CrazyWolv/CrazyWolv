@@ -7,7 +7,7 @@
 <br/><br/>
 **I REALLY LIKE** ▸ to learn new stuff, especially when it comes to design, new technologies & frontend Development. When I'm not coding, I like to draw... a lot.
 <br/><br/>
-**IN MY IDEAL FUTURE** ▸ I'll be a clean-coding TDD Frontend Developer as well as a freelance illustrator and author.
+**IN MY IDEAL FUTURE** ▸ I'll be a TDD Frontend / Fullstack Developer as well as a freelance illustrator and author.
 <br/><br/>
 <p align="center"><a href="https://github.com/CrazyWolv/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CrazyWolv&theme=chalk&no-frame=true&title=Joined2020,Stars,Commits,Followers,Repositories&margin-w=15" alt="CrazyWolv Trophy" /></a></p>
 <br/><br/>

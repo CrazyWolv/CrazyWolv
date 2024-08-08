@@ -17,7 +17,7 @@
 
 ### &nbsp; <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/leaves-left.png" alt="wolf skull" width="70" /> &nbsp; Would like to learn / use &nbsp; <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/leaves-right.png" alt="fall leaves right" width="70" />
 &nbsp; &nbsp; 🌱 Docker  
-&nbsp; &nbsp; 🌱 3JS 
+&nbsp; &nbsp; 🌱 3JS  
 &nbsp; &nbsp; 🌱 Flutter
 <br/><br/>
 

@@ -37,10 +37,6 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL badge" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React badge" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS badge" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux badge" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="ReactRouter badge" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass badge" />
-  <img src="https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white" alt="Semantic-UI-React badge" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn badge"  />
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM badge" />
@@ -65,11 +61,4 @@
   
 <br/>
 <br/>
-
-## <img src="https://github.com/CrazyWolv/CrazyWolv/blob/main/img/wolf-skull.png" alt="wolf skull" width="50" /> &nbsp; S T A T S &nbsp; & &nbsp; S U P P O R T
-<br />
-
-<p><a href="https://www.buymeacoffee.com/enzopoulhes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=enzopoulhes&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" alt="buy me a coffee button" /></a></p>
-<img src="https://github-readme-stats.vercel.app/api?username=CrazyWolv&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="github stats" width="500" />
-
 
